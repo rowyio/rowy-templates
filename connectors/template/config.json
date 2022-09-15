@@ -1,4 +1,5 @@
 {
+"name":"basic-example",
 "elementId":"id",
 "labelFormatter":"{{emoji}} {{word}}",
 "multiple":true
