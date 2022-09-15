@@ -26,7 +26,7 @@ This means, no more messing around with CLIs, cloud console, terminals, reading 
 
 - To get started first [setup an account on Rowy](https://rowy.app/)
 - Create a new project on your workspace and connect to your Firebase project
-- Then create a table collection where you can store your data on Firestore and manage via Rowy's spreadsheet UI
+- Create a table collection to store your data on Firestore and manage via Rowy's spreadsheet UI
 - Create any code-able column such as Derivative, Action scripts or table level extensions 
 - Use one of the ready to use templates or create your own in javascript/typescript
 - Click deploy and thats it ✨
