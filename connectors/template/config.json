@@ -1,5 +1,5 @@
 {
-"name":"basic-example",
+"name":"template",
 "elementId":"id",
 "labelFormatter":"{{emoji}} {{word}}",
 "multiple":true
