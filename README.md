@@ -38,10 +38,12 @@ alt="Cloud function in low-code using rowy" width="440" border="10" /></a>
 
 ## Contribution Guide
 
-After setting up and creating a cloud function code-snippet (derivative, action, extensions) on Rowy as per the above instructions, you can contribute them to the Rowy's open-source templates repo by submitting PR. 
+After setting up and creating a cloud function code-snippet (derivative, action, extensions) on Rowy as per the above instructions, you can contribute them to the Rowy's open-source templates repo by submitting PR with the code snippet from the derivative you have create.
+<img width="600" alt="Code Snippet" src="https://user-images.githubusercontent.com/307298/190358348-57abdbac-84e1-4887-b425-2dd90ac1ab44.png">
+
 
 Every PR should be made to the relevant directory structure of derivative, action, extension. Ensure the submission is a folder with the relevant name of the code-snippet. The folder should contain two files:
-- Code snippet: Template
+- Code snippet: Template 
 - Readme file: Add any details about the code snippet including any additional instructions as required.
 
 See a sample submitted PR here.
@@ -50,6 +52,5 @@ See a sample submitted PR here.
 
 Join Rowy's [Discord](https://discord.com/invite/fjBugmvzZP) and post under the #contribution channel with what you are building/need help with. 
 
-
-
-
+## License
+By contributing to Rowy, you agree that your contributions will be licensed with the same license that is specified in the repository you are contributing to.
