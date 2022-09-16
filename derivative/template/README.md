@@ -1,6 +1,6 @@
-# Template name
+# <Derivative name> cloud function
 
-Describe the template and its usecase
+Describe the derivative and its usecase
 
 <img width="600" alt="Code Snippet" src="https://user-images.githubusercontent.com/307298/190358348-57abdbac-84e1-4887-b425-2dd90ac1ab44.png">
 

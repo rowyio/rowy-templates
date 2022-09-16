@@ -38,14 +38,17 @@ alt="Cloud function in low-code using rowy" width="440" border="10" /></a>
 
 ## Contribution Guide
 
-After setting up and creating a cloud function code-snippet on Rowy as per the above instructions, you can contribute them to the Rowy's open-source templates repo by submitting PR with the code snippet from the derivative you have created.  
-<img width="600" alt="Code Snippet" src="https://user-images.githubusercontent.com/307298/190358348-57abdbac-84e1-4887-b425-2dd90ac1ab44.png">
+1) Pick from the following list of issues for cloud function type your would like to contribute to. Note once you have picked an issue to work on, comment on it so that it can be assigned to you. In case you want to contribute to an issue not of the list, feel free to open new issue.
+- [Derivatives issues list]()
+- [Extension issues list]()
+- [Action issues list]()
+- [Connector issues list]()
 
-Submit a PR with a folder added to the derivative directory with the relevant name of the code-snippet. The folder should contain two files:
-- Code snippet: [Template](https://github.com/rowyio/templates/blob/main/derivative/template/template.ts)
-- Readme file: [Template](https://github.com/rowyio/templates/blob/main/derivative/template/README.md)
-
-See a sample of an expected PR submission [here](https://github.com/rowyio/templates/pull/2/files).
+2) Read the specific contribution guide of the type of cloud function you have picked and follow the instructions from here.
+- [Derivatives contribution guide](https://github.com/rowyio/templates/blob/main/derivative/README.md)
+- [Extension contribution guide](https://github.com/rowyio/templates/blob/main/extension/README.md)
+- [Action contribution guide](https://github.com/rowyio/templates/blob/main/action/README.md)
+- [Connector contribution guide](https://github.com/rowyio/templates/blob/main/connector/README.md)
 
 ## Need help?
 
