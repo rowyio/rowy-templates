@@ -9,4 +9,4 @@ To get yourself familiar with how you can create a extensions, read this [docume
 - README.md: [Template](https://github.com/rowyio/templates/blob/main/extension/template/README.md)
 4) Make sure your folder is name appropriately representing your derivative function as well as the README.md file details any requirements for using the extension function.
 
-Here is a [sample valid PR submission](https://github.com/rowyio/templates/pull/2/files) for a derivative function, make sure similar format is maintained.
+Here is a [sample valid PR submission](https://github.com/rowyio/templates/pull/5/files) for a extension function, make sure similar format is maintained.
