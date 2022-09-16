@@ -8,7 +8,7 @@ alt="Cloud function in low-code using rowy" width="440" border="10" /></a>
 1) Pick from the list of issues for new derivatives requested or add your own issue if you are interested in creating one not on the list.
 2) Please comment on an issue you would like to work on so that it can be assigned to you. 
 3) Once, you have created the derivative function, submit a PR to the `derivative` folder with a new folder containing following two files:
-- index.ts: [Template](https://github.com/rowyio/templates/blob/main/derivative/template/main.ts)
+- main.ts: [Template](https://github.com/rowyio/templates/blob/main/derivative/template/main.ts)
 - README.md: [Template](https://github.com/rowyio/templates/blob/main/derivative/template/README.md)
 4) Make sure your folder is name appropriately representing your derivative function as well as the README.md file details any requirements for using the derivative function.
 
