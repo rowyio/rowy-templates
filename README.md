@@ -38,11 +38,7 @@ alt="Cloud function in low-code using rowy" width="440" border="10" /></a>
 
 ## Contribution Guide
 
-1) Pick from the following list of issues for cloud function type your would like to contribute to. Note once you have picked an issue to work on, comment on it so that it can be assigned to you. In case you want to contribute to an issue not of the list, feel free to open new issue.
-- [Derivatives issues list]()
-- [Extension issues list]()
-- [Action issues list]()
-- [Connector issues list]()
+1) Pick from the issues section or pick your own API/integration that you want to implement. Comment on an existing issue that you want work on or if working on your own idea, create a new issue so we can track/add feedback while you work on it.
 
 2) Read the specific contribution guide of the type of cloud function you have picked and follow the instructions from here.
 - [Derivatives contribution guide](https://github.com/rowyio/templates/blob/main/derivative/README.md)
