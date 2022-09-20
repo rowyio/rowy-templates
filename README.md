@@ -3,6 +3,8 @@
 
 Collection of Rowy's backend templates and code snippets for cloud functions - including for derivative, action columns and extensions.
 
+![Cloud Function Code Snippet Banner](https://user-images.githubusercontent.com/307298/191193064-b67e9a8e-baa0-47be-8bf4-80c62c77d5da.png)
+
 ## What is Rowy?
 
 [Rowy](https://www.rowy.io/) is an open-source low-code platform to build your product backend fast. 
