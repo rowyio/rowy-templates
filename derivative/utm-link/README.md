@@ -6,3 +6,7 @@ Cloud function that generates UTM links for a given URL. It uses the [encodeURI 
 
 - Listener field(s) type: URL field, Short Text field, Short Text field, and a Short Text field
 - Output field type: URL field
+
+## Additional reference links
+
+- [UTM Links](https://demo.rowy.io/table/utmLinks) - Rowy Demo Table

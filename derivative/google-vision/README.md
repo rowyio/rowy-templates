@@ -7,3 +7,7 @@ Cloud function that uses Google Vision OCR to read the contents of an image and 
 - Listener field(s) type: Image field
 - Output field type: Text field
 - To use any Google Cloud API, first enable [Cloud Vision API](https://console.cloud.google.com/apis/api/vision.googleapis.com)
+
+## Additional reference links
+
+- [Expenses](https://demo.rowy.io/table/expenses) - Rowy Demo Table
