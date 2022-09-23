@@ -1,6 +1,6 @@
 # <Sendgrid name> cloud function
 
-Send an email using Sendgrid everytime a new row is created
+Send an email using Sendgrid everytime a new row is created.
 
 ## Step by step instructions for using this derivative function
 
