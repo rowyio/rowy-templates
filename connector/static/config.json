@@ -1,0 +1,6 @@
+{
+    "name": "static",
+    "elementId": "id",
+    "labelFormatter": "{{emoji}} {{word}}",
+    "multiple": true
+}
