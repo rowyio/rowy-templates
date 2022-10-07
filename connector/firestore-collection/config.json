@@ -1,0 +1,6 @@
+{
+    "name": "firestore-collection",
+    "elementId": "id",
+    "labelFormatter": "snapshot.noun",
+    "multiple": false
+}
