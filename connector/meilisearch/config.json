@@ -1,0 +1,6 @@
+{
+    "name": "meilisearch",
+    "elementId": "id",
+    "labelFormatter": "{{firstName}} {{lastName}}",
+    "multiple": false
+}
