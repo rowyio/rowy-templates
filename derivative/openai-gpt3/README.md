@@ -8,3 +8,8 @@ Cloud function that uses OpenAI's GPT-3 API and generates an emoji for a given t
 - Output field type: Text field
 - To use OpenAI GPT-3 API, first setup an account on [OpenAI](https://openai.com/) and generate a API secret
 - Store the API secret key on your Google Cloud project's [Secret manager](https://console.cloud.google.com/security/secret-manager) under "openai" name
+
+## Additional reference links
+
+- [OpenAI GPT-3](https://openai.com/blog/openai-api/) - OpenAI GPT-3 API
+- [Emoji](https://demo.rowy.io/table/emojify) - Rowy Demo Table
