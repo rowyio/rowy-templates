@@ -1,0 +1,6 @@
+{
+    "name": "json-object",
+    "elementId": "id",
+    "labelFormatter": "{{name}}",
+    "multiple": false
+}

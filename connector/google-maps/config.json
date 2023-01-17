@@ -1,0 +1,6 @@
+{
+    "name": "google-maps",
+    "elementId": "place_id",
+    "labelFormatter": "{{name}}",
+    "multiple": false
+}
