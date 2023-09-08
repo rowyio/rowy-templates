@@ -2,8 +2,9 @@
 
 Collection of Rowy's backend templates and code snippets for cloud functions - including for derivative, action columns and extensions.
 
-![Cloud Function Code Snippet Banner](https://user-images.githubusercontent.com/307298/191193064-b67e9a8e-baa0-47be-8bf4-80c62c77d5da.png)
-
+<a href="https://www.rowy.io" target="_blank">
+<img src="https://user-images.githubusercontent.com/307298/191193064-b67e9a8e-baa0-47be-8bf4-80c62c77d5da.png" alt="Rowy Templates"/>
+</a>
 ## What is Rowy?
 
 [Rowy](https://www.rowy.io/) is an open-source low-code platform to build your product backend fast. 
@@ -34,8 +35,10 @@ This means, no more messing around with CLIs, cloud console, terminals, reading 
 
 You can watch a full video of how you can create a cloud function in low-code below
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9XMWpW-5KSI" target="_blank"><img src="https://user-images.githubusercontent.com/307298/190351363-2878abd8-9b0c-45d0-b59f-198557d9f9b7.png" 
-alt="Cloud function in low-code using rowy" width="440" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9XMWpW-5KSI" target="_blank">
+<img src="https://user-images.githubusercontent.com/307298/190351363-2878abd8-9b0c-45d0-b59f-198557d9f9b7.png" 
+alt="Cloud function in low-code using rowy" width="440" border="10" />
+</a>
 
 ## Contribution Guide
 
