@@ -1,6 +1,5 @@
 # Rowy Templates
 
-
 Collection of Rowy's backend templates and code snippets for cloud functions - including for derivative, action columns and extensions.
 
 ![Cloud Function Code Snippet Banner](https://user-images.githubusercontent.com/307298/191193064-b67e9a8e-baa0-47be-8bf4-80c62c77d5da.png)
@@ -50,7 +49,7 @@ alt="Cloud function in low-code using rowy" width="440" border="10" /></a>
 
 ## Need help?
 
-Join Rowy's [Discord](https://discord.com/invite/fjBugmvzZP) and post under the #contribution channel with what you are building/need help with. 
+Join Rowy's [Discord](https://buildship.com/discord) and post under the #contribution channel what you are building/need help with. 
 
 ## License
 By contributing to Rowy, you agree that your contributions will be licensed with the same license that is specified in the repository you are contributing to.
